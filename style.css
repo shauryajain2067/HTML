@@ -1,0 +1,30 @@
+body {
+    background-color:peachpuff;
+}
+#title{
+    text-align: center;
+    color: aquamarine;
+}
+#para1{
+    text-align:left;
+    color:black;
+}
+.im2{
+    height:300;
+    width:300;
+
+}
+#para2{
+    text-align:center;
+    color:black;
+    
+}
+#para3{
+ text-align: right;   
+}
+.bullets{
+    text-align:right;
+    font-weight:bold;
+    font-style:italic;
+    
+}
